@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parth-97
+- 👋 Hi, I’m Parth kapooor
 - 👀 I’m interested in learning about new technologies
 - 🌱 I’m currently learning web devlopment
 - 📫 You acn contact me at
