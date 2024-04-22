@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Parth kapooor
 - 👀 I’m interested in learning about new technologies
 - 🌱 I’m currently learning web devlopment
-- 📫 You acn contact me at
+- 📫 You can contact me at
 - email-parthkapoor984@gmail.com
 - ⚡ Fun fact: I am currenty a student who had just passed out from high school 
 
